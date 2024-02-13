@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **DSA, Spring, PostgreSQL**
 
 - 📫 How to reach me **samaljanmejoy02@gmail.com**
+- ⚡ Fun fact **I am Cool minded**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
